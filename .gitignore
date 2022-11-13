@@ -1,0 +1,3 @@
+# === Beginning of .gitignore ===
+# Ignore temp files
+*.tmp
