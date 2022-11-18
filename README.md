@@ -7,3 +7,7 @@ SHIP-DADDY is a web interface designed to offer a generalized framework for drop
 ## SETUP
 
 
+### CONTRIBUTORS
+
+- mowgli
+- GIGA-Money
