@@ -12,12 +12,12 @@ SHIP-DADDY is a web interface designed to offer a generalized framework for drop
 
 ## Task
 
-* Configure the server with Express [x]
-* Run the UI with the server [ ]
-* Configure the db []
-* Connect the api with db []
-* Place an order with UI []
-* Save the request in db []
+- [x] Configure the server with Express 
+- [] Run the UI with the server 
+- [] Configure the db 
+- [] Connect the api with db 
+- [] Place an order with UI 
+- [] Save the request in db 
 
 
 ### CONTRIBUTORS
