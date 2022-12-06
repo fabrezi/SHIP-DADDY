@@ -23,6 +23,7 @@ The purpose of the epic is to design a retail site. It will mainly be a CRUD ope
 - [] Connect the api with db 
 - [] Place an order with UI 
 - [] Save the request in db 
+- [] Create a logging mechanism for each action
 
 
 ### CONTRIBUTORS
