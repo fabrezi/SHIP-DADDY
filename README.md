@@ -18,7 +18,7 @@ The purpose of the epic is to design a retail site. It will mainly be a CRUD ope
 ## Task
 
 - [x] Configure the server with Express 
-- [] Run the UI with the server 
+- [x] Run the UI with the server 
 - [] Configure the db 
 - [] Connect the api with db 
 - [] Place an order with UI 
