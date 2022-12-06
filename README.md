@@ -10,6 +10,16 @@ SHIP-DADDY is a web interface designed to offer a generalized framework for drop
 2. Clone this repo and run `npm install express`. this will download the node_modules folder.
 3. Run the server `node server.js`
 
+## Task
+
+- Configure the server with Express [x]
+- Run the UI with the server []
+- Configure the db []
+- Connect the api with db []
+- Place an order with UI []
+- Save the request in db []
+
+
 ### CONTRIBUTORS
 
 - mowgli
