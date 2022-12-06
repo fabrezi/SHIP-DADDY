@@ -1,0 +1,99 @@
+Java, Spring Boot, Go, DynamoDB, Docker, AWS, Jenkins, Sonarqube
+
+• Autism
+• Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, or HIV/AIDS
+• Blind or low vision
+• Cancer
+• Cardiovascular or heart disease
+• Celiac disease
+• Cerebral palsy
+• Deaf or hard of hearing
+• Depression or anxiety
+• Diabetes
+• Epilepsy
+• Gastrointestinal disorders, for example, Crohn's Disease, or irritable bowel syndrome
+• Intellectual disability
+• Missing limbs or partially missing limbs
+• Nervous system condition for example, migraine headaches, Parkinson's disease, or Multiple sclerosis (MS)
+• Psychiatric condition, for example, bipolar disorder, schizophrenia, PTSD, or major depression
+
+
+· Involved in Developer Sessions, gathering requirements, and developing a web application using Agile methodology.
+
+· A daily programming on server-side by using Nest JS & TypeScript.
+
+· Involved in creating an Implement Strategy of Nexus Repository Manager.
+
+· Defined API definition using OpenAPI for faster API development
+
+
+
+Utilized the Waterfall methodology of development for Requirements, Planning, Design, and Deployment.
+
+· Developing certain features of the application functionality i.e., CRUD (Create, read, update, delete) features using React JS.
+
+· Developed a web presentation layer using jQuery, HTML, and CSS according to internal standards and guidelines.
+
+· Responsible for implementing UI mock-ups, integrating third party react libraries, and handling/creating Redux store data.
+
+· Responsible for creating the RESTFUL Web using Node.js & Express.js.
+
+· Working with Grunt and Gulp as an associate to Node.JS to establish the connectivity between database and client.
+
+· Utilized Bootstrap components like nav links, button groups, dropdowns, wells, pagination to build a responsive layout.
+
+· Development of client-side validation techniques using jQuery and JavaScript.
+
+· Wrote SQL queries, stored procedures, modifications to existing database structure as required for addition of new features.
+
+· Used version control system tools such as Git to manage the code repository.
+########################################
+8+ years of software engineering experience, with 3+ years of such experience in an agile environment.
+Strong background in Java Engineering
+Experience with microservice development using Spring Boot (JOOQ, Flyway, Gradle, etc.)
+Experience with databases such as AuroraDB, DynamoDB, MySQL
+Experience with high volume data using Kafka
+Knowledge of performance optimization approaches and technologies for web applications
+Experience with GraphQL and/or Apollo
+Experience in AWS and cloud infrastructure (ECS, Containers, CloudFront, etc.)
+Believer in test-driven-development and the importance of clear design documentation
+Experience working across teams and with remote teams
+Strong written and interpersonal communication skills for interacting persuasively with product/design/business stakeholders.
+BS/MS in Computer Science, Engineering or related field, or equivalent training, fellowship, or work experience.
+Active interest not only in application code but also great software architecture
+
+
+###############################3
+In the Professional space (aka not Campus or Executive), we look for SW Engineers / Data Engineers with at least 2 years of professional exp with either:
+1. SW Engineers: Java, Spring, Angular (OR) Node, React
+2. Data Engineers:  Python, Spark, Scala, Hive, Snowflake
+3. Cloud Engineers:  AWS, DevOps, CICD Pipeline
+We hire Senior, Principal and Master-level Engineers, and have leadership roles for Manager, Sr. Manager and Tech Lead and Sr. Architects
+################3
+skills looking for at Mozeus:
+- Azure - OOP - C# - node.js - .net
+#####################
+
+We are looking for an expert Java developer who can help push our JVM tracing and profiling tools to the next level. 
+Come and join us to build amazing open-source software!
+
+You Will:
+Write open-source code that instruments thousands of Java applications around the world
+Drive our open-source Java projects and engage with the community to find and fix the most important challenges
+Join a great team building software the right way
+
+Requirements:
+Your knowledge of JVM is deep and you’ve been in direct contact with JVM internals
+You’re knowledgeable about JIT optimization techniques, you’ve wrestled different garbage collector algorithms, 
+fixed race conditions and you know the acronyms BCI and ASM
+You’ve written piles of clean, correct, well-tested, performant, idiomatic Java code
+You’re experienced with tools to collect diagnostic and profiling data (e.g. JFR and JMC)
+You’re experienced with performance optimization of applications, frameworks and libraries
+You want to work in a fast, high growth startup environment that respects its engineers and customers
+
+Bonus Points:
+You know another language that runs on the JVM, like Scala or Clojure
+You have significant experience with Python, Go, Javascript, Ruby or PHP
+You have experience with Java EE
+You have experience with multiple programming models for concurrency, such as Akka
+
