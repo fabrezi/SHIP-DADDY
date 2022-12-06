@@ -19,7 +19,7 @@ The purpose of the epic is to design a retail site. It will mainly be a CRUD ope
 
 - [x] Configure the server with Express 
 - [x] Run the UI with the server 
-- [] Add following options on the UI: {Menu, Order, Track}
+- [] Add following options on the UI: {Menu, Order, Track, Register}
 - [] Configure the db 
 - [] Connect the api with db 
 - [] Place an order with UI 
