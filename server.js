@@ -10,9 +10,12 @@ app.get('/', (req, res) => {
   //res.send('Welcome to Ship-Daddy!!')
   /*
   * This line has imp parts. This is the method to run and 
-  * open a html file.
+  * open a html file. res.sendfile is a function (Express only)
+  * which allows to transfer file at the given path.
+  * the __dirname is the directory name of the current module.
+  * 
   */
-  res.sendFile(path.join(__dirname,  'src/test.html'))
+  res.sendFile(path.join(__dirname,  'src/daddy.html'))
 })
 
 app.listen(port, () => {
