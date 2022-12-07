@@ -7,7 +7,7 @@ const port = 4200
 
 //app.param(path, callback)
 app.get('/', (req, res) => {
-  //res.send('Welcome to Ship-Daddy!!')
+
   /*
   * This is the method to run and 
   * open a html file. res.sendfile is a function (Express only)
@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
   * the __dirname is the directory name of the current module.
   * 
   */
-  res.sendFile(path.join(__dirname,  'src/daddy.html'))
+  res.sendFile(path.join(__dirname,  'src/html_links/daddy.html'))
 })
 
 //to make a text as hyperlink, use either www or http
@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
 //in Nodes.
 
 app.listen(port, () => {
-  console.log(`Website is here: http://localhost:${port}`)
+  console.log(`THE LINK :=> http://localhost:${port}`)
 })
 
 
