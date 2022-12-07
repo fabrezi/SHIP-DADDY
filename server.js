@@ -1,8 +1,8 @@
 //this will configure and run the server.
-const express = require('express')
+const express = require('express') //import the package
 const app = express() //instance of the server
 //app.use(express.json()) //body-parser middleware for req.body parameters
-const path = require('path')
+const path = require('path') //
 const port = 4200
 
 //app.param(path, callback)

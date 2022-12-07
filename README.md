@@ -5,8 +5,10 @@ SHIP-DADDY is a web interface designed to offer a generalized framework for drop
 The purpose of the epic is to design a retail site. It will mainly be a CRUD operation based api. The site will provide the following:
 
 1. Display the products. Images of the product.
-2. The user can place an order. This will save the product with the user name and contact info.
-3. Provide stats or the current status of the product. This will be packaging, shipping, delivery, delivered. This info can be checked by making calls to the db.
+2. Ability for the user to register. Then he/she will receive a UUID.
+3. The user can use the UUID to place an order.
+4. Manually the status of the order will be updated. The user will have the option to see the current status of the package.
+5. Provide stats or the current status of the product. This will be packaging, shipping, delivery, delivered. This info can be checked by making calls to the db.
 
 
 ## SETUP
