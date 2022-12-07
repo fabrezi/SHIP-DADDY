@@ -16,7 +16,6 @@ app.get('/', (req, res) => {
   * 
   */
   res.sendFile(path.join(__dirname,  'src/daddy.html'))
-  //console.log(`localhost:4200`)
 })
 
 //to make a text as hyperlink, use either www or http
@@ -27,8 +26,5 @@ app.listen(port, () => {
   console.log(`Website is here: http://localhost:${port}`)
 })
 
-// app.post('/posty', (req,res) => {
-//     var user = req.body.user;
-//     res.send(`Hello Beta ${user}`)
-// })
+
 
