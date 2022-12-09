@@ -11,6 +11,14 @@ The purpose of the epic is to design a retail site. It will mainly be a CRUD ope
 4. Manually the status of the order will be updated. The user will have the option to see the current status of the package.
 5. Provide stats or the current status of the product. This will be packaging, shipping, delivery, delivered. This info can be checked by making calls to the db.
 
+For the completion of the task, the app must have the following:
+
+- CRUD functionality (HTTP methods,routing)
+- Frontend: Should demonstrate an understanding of the framework used
+            in the solution and ui best practice, event handling, hooks
+- Backend: Should demonstrate understanding of route handling and REST.
+- Database: Persistence (wtf??)
+
 
 ## SETUP
 
@@ -31,6 +39,13 @@ The purpose of the epic is to design a retail site. It will mainly be a CRUD ope
 - [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)
 
 
+### REPORT
+
+> :DATE: STATUS
+
+:(08/12/2022): fix the hyperlink. The link doesn't open the local path to the html file.
+:(09/12/2022): focus on the fundamentals. Make the site functional. Keep things simple and minimal. 
+               
 ### CONTRIBUTORS
 
 - mowgli
