@@ -34,7 +34,8 @@ Put simply: make the site do CRUD. Thats it.
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {Menu, Order, Track}
 - [x] Implement Menu link, Order link and Track Link
-- []  Add an image for the track link.
+- [] Add an image for the track link
+- [] Initialize the db
 - [] Configure the db instance
 - [] Connect the api with db 
 - [] Place an order with UI 
@@ -45,6 +46,10 @@ Put simply: make the site do CRUD. Thats it.
 ### URL
 
 It stands for Uniform Resource Locator.
+
+BNF-form:
+
+> <scheme>:<schem-specific-part>
 
 
                
