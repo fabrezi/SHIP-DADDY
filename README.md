@@ -42,8 +42,11 @@ Put simply: make the site do CRUD. Thats it.
 - [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
 
 
+### 
+
+
                
 ### CONTRIBUTORS
 
-- mowgli
-- GIGA-Money
+- [Mowgli](https://github.com/fabrezi)
+- [GIGA-Money](https://github.com/GIGA-Money)
