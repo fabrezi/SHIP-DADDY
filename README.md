@@ -21,8 +21,6 @@ For the completion of the task, the app must have the following:
 
 Put simply: make the site do CRUD. Thats it. 
 
-**For fun add an image of meme for the track link!! lol.
-
 
 ## SETUP
 
