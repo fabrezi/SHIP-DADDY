@@ -42,7 +42,9 @@ Put simply: make the site do CRUD. Thats it.
 - [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
 
 
-### 
+### URL
+
+It stands for Uniform Resource Locator.
 
 
                
