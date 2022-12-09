@@ -17,7 +17,11 @@ For the completion of the task, the app must have the following:
 - Frontend: Should demonstrate an understanding of the framework used
             in the solution and ui best practice, event handling, hooks
 - Backend: Should demonstrate understanding of route handling and REST.
-- Database: Persistence (wtf??)
+- Database: Persistence
+
+Put simply: make the site do CRUD. Thats it. 
+
+**For fun add an image of meme for the track link!! lol.
 
 
 ## SETUP
@@ -31,20 +35,15 @@ For the completion of the task, the app must have the following:
 - [x] Configure the server with Express 
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {Menu, Order, Track}
-- [] Implement Menu link, Order link and Track Link
+- [x] Implement Menu link, Order link and Track Link
+- []  Add an image for the track link.
 - [] Configure the db instance
 - [] Connect the api with db 
 - [] Place an order with UI 
 - [] Save the request in db 
-- [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)
+- [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
 
 
-### REPORT
-
-> :DATE: STATUS
-
-:(08/12/2022): fix the hyperlink. The link doesn't open the local path to the html file.
-:(09/12/2022): focus on the fundamentals. Make the site functional. Keep things simple and minimal. 
                
 ### CONTRIBUTORS
 
