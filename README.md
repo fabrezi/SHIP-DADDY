@@ -60,6 +60,13 @@ It is a method to provide security across URL links.
 
 The credentials uses Tenenant ID, Client ID, and Client Secret.
 
+### JS
+
+There are multiple formatting frameworks for the JS. The two I am aware of are CommonJS and ES6. Though ES6 is the accepted standard, CJS is default for NodeJS (further every backend shoudld be aware).
+
+CJS uses `module.exports` and `require` to load a module.
+ES6 uses `import` and `export` to send out a module.
+
 
                
 ### CONTRIBUTORS

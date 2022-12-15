@@ -9,6 +9,9 @@ const cors = require('cors')
 app.use(cors())
 
 //app.param(path, callback)
+//express structure: app.METHOD(path, Handler)
+//app is an instance of express
+
 app.get('/', (req, res) => {
 
   /*
@@ -27,6 +30,17 @@ app.get('/', (req, res) => {
 
 app.listen(port, () => {
   console.log(`THE LINK :=> http://localhost:${port}`)
+})
+
+app.get('C:\Projects\SHIP-DADDY\src\html_links\track.html', function(req,res){
+  res.redirect(200, 'https://www.google.com')
+});
+
+
+//this is a sample endpoint. It works to redirect.
+app.get('/tracker', function(req,res){
+  res.redirect(200, 'https://www.google.com')
+
 })
 
 
