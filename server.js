@@ -7,7 +7,7 @@ const port = 4200
 const cors = require('cors')
 
 app.use(cors())
-
+  
 //app.param(path, callback)
 //express structure: app.METHOD(path, Handler)
 //app is an instance of express
