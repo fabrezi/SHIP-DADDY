@@ -25,7 +25,7 @@ Put simply: make the site do CRUD. Thats it.
 ## SETUP
 
 1. Install [NodeJS](https://nodejs.org/)
-2. Clone this repo and run `npm install express`. this will download the node_modules folder.
+2. Clone this repo and run `npm install`. this will download the node_modules folder.
 3. Run the server `node server.js`
 
 ## Task
