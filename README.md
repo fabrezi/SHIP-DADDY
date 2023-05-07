@@ -34,8 +34,6 @@ Put simply: make the site do CRUD. Thats it.
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {Menu, Order, Track}
 - [x] Implement Menu link, Order link and Track Link
-- [] Make the track link a `msal` protection
-- [] Add an image for the track link
 - [] Initialize the db
 - [] Configure the db instance
 - [] Connect the api with db 
@@ -44,25 +42,7 @@ Put simply: make the site do CRUD. Thats it.
 - [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
 
 
-### URL
-
-It stands for Uniform Resource Locator.
-
-BNF-form:
-
-> <scheme>:<schem-specific-part>
-
-
-### MSAL
-
-Microsoft Authentication Library provides token to authenticated users. 
-It is a method to provide security across URL links.
-
-The credentials uses Tenenant ID, Client ID, and Client Secret.
-
-
                
 ### CONTRIBUTORS
 
 - [Mowgli](https://github.com/fabrezi)
-- [GIGA-Money](https://github.com/GIGA-Money)
