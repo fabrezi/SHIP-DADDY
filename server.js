@@ -3,7 +3,7 @@ const express = require('express') //import the package
 const app = express() //instance of the server
 //app.use(express.json()) //body-parser middleware for req.body parameters
 const path = require('path') //
-const port = 4200
+const port = 8080;
 const cors = require('cors')
 
 app.use(cors())
