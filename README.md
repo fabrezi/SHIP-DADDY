@@ -21,6 +21,14 @@ For the completion of the task, the app must have the following:
 
 Put simply: make the site do CRUD. Thats it. 
 
+## The Courtier
+
+This project will serve as the testing site for the `the courtier`.
+
+I need to figure out the HTML implementation for the UI.
+
+
+
 
 ## SETUP
 
