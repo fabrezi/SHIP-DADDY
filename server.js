@@ -12,6 +12,8 @@ app.use(cors())
 //express structure: app.METHOD(path, Handler)
 //app is an instance of express
 
+//app.use(express.static(__dirname + 'src/data/micheak-cine-fashione.PNG'))
+
 app.get('/', (req, res) => {
 
   /*
@@ -22,6 +24,7 @@ app.get('/', (req, res) => {
   * 
   */
   res.sendFile(path.join(__dirname,  'src/html_links/daddy.html'))
+  app.use(express.static(path.join(__dirname , 'src/images/Bale.webp')))
 })
 
 //to make a text as hyperlink, use either www or http
