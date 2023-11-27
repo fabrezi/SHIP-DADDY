@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
   * 
   */
   res.sendFile(path.join(__dirname,  'src/html_links/daddy.html'))
-  app.use(express.static(path.join(__dirname , 'src/images/Bale.webp')))
+  app.use(express.static( 'src/images/Bale.webp'))
 })
 
 //to make a text as hyperlink, use either www or http
