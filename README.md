@@ -1,6 +1,4 @@
-# THE COURTIER
-
-
+# SHIP DADDY
 
 
 
@@ -10,7 +8,7 @@
 2. Clone this repo and run `npm install`. this will download the node_modules folder.
 3. Run the server `node server.js`
 
-## Task
+## TASK
 
 - [x] Configure the server with Express 
 - [x] Run the UI with the server 
@@ -25,6 +23,4 @@
 
 
                
-### CONTRIBUTORS
-
-- [Mowgli](https://github.com/fabrezi)
+### REFERENCES
