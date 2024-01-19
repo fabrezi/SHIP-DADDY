@@ -14,7 +14,7 @@ app.use(cors())
 
 //app.use(express.static(__dirname + 'src/data/micheak-cine-fashione.PNG'))
 
-app.use(express.static('src/images'));
+app.use(express.static('src'));
 
 app.get('/', (req, res) => {
 
@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
   */
   res.sendFile(path.join(__dirname,  'src/html_links/daddy.html'))
   //app.use(express.static('src'));
-  //app.use(express.static( 'src/images/Bane.jpg'))
+  //app.use(express.static( 'src/images'))
 })
 
 //to make a text as hyperlink, use either www or http
