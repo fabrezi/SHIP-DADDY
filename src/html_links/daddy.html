@@ -3,8 +3,28 @@
    <head>
          <title>THE COURTIER</title>
 
+         <style>
+
+            .h1{
+               text-align: center;
+            }
+
+            .h2{
+               text-align: right;
+            }
+
+            .image_block    {
+                       width: 175px;
+                       height: 175px;
+                       position: relative;}
+
+
+            
+         </style>
+
    </head>
 
+   
    <body style="background-color: rgb(205, 201, 234)">
 
       <h1>THE COURTIER</h1>
@@ -12,48 +32,40 @@
       <br>
       <br>
 
-      <!---video height="400" width="400" controls="controls" >
-         <source src="file:///C:\Users\projects\SHIP-DADDY\src\images\Mina -  Il cielo in una stanza (Dolce & Gabbana Spot).mp4"
-         
-         type="video/mp4" />
-      </video--->
+      <!---h2>" Boys wear jeans. Men wear suits. "</h2--->
 
-      <div id="main-content">
+      <div id="main-content" class="image_block" >
 
-         <img src="./images/Bane.jpg"  height="500" width="500" alt="Micheal-Bale-foto"/>
+         <img src="./images/Bane.jpg"  height="500" width="400"  alt="Micheal-Bale-foto"/>
 
+
+      </div>   
+
+      <div style="text-align: center">
+
+         <button id="myButton" >ABOUT US</button>
+
+         <script type="text/javascript">
+                 document.getElementById("myButton").onclick = function () {
+                  location.href = "./html_links/about.html";
+                 };
+         </script>
 
       </div>
-
-      <br>
-      <br>
-
-
-      <div>
-         <header>ABOUT US</header>
-      </div>
-
-      <div>
-         <title>CONTACT US</title>
-      </div>
-
-
-      <!--div style="text-align:center">
-         <button href="C:\project\SHIP-DADDY\src\html_links\menu.html">ABOUT US</button>
-      </div>
+      
 
       <br>
 
       <div style="text-align:center">
-         <button href="C:\project\SHIP-DADDY\src\html_links\order.html">MENU</button>
+         <button href="C:\project\SHIP-DADDY\src\html_links\order.html">CATALOG</button>
       </div>
 
 
       <br>
 
-      <div style="text-align: center">
+      <!---div style="text-align: center">
          <button href="C:\project\SHIP-DADDY\src\html_links\track.html">RESERVATION</button>
-      </div>
+      </div--->
 
       <br>
 
