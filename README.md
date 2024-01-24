@@ -1,5 +1,9 @@
 # SHIP DADDY
 
+## THE COURTIER
+
+This repository now serves as the web-platform base for my client. The client(courtier) 
+requires a simple E-commerce site for their fashion brand.
 
 
 ## SETUP
@@ -12,14 +16,17 @@
 
 - [x] Configure the server with Express 
 - [x] Run the UI with the server 
-- [x] Add following options on the UI: {Menu, Order, Track}
-- [x] Implement Menu link, Order link and Track Link
-- [] Initialize the db
+- [x] Add following options on the UI: {About Us, Catalog, ~~Reservation~~, Contact US}
+- [ ] Implement the linking references
+- [ ] Connect the localhost to the actual domain from GoDaddy site
+
+#### PHASE 02
+- [] Create a cart functionality
 - [] Configure the db instance
 - [] Connect the api with db 
 - [] Place an order with UI 
 - [] Save the request in db 
-- [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
+- [] ~~Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)~~**
 
 
 
@@ -35,3 +42,5 @@ These are the following elements to be used in discord messages:
 
                
 ### REFERENCES
+
+- [commit](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
