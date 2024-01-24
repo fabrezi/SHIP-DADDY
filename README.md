@@ -22,5 +22,16 @@
 - [] Create a logging mechanism for each action (what is similar to log4j. Is it `morgan`??)**
 
 
+
+### DISCORD FORMAT
+
+These are the following elements to be used in discord messages:
+
+- Research
+- Essay
+- News
+- Issue: debugging purpose
+- Link: misscellaneous or data that can't be attributed 
+
                
 ### REFERENCES
