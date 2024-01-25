@@ -25,8 +25,7 @@
 
       <h1>THE COURTIER</h1>
 
-      <br>
-      <br>
+      <h2>"Boys wear jeans. Men wear suits."</h2>
 
       <div id="main-content" class="image_block" >
 
@@ -37,7 +36,7 @@
 
       <div style="text-align: center">
 
-         <button id="myButton" >ABOUT US</button>
+         <button id="myButton">ABOUT US</button>
 
          <script type="text/javascript">
                  document.getElementById("myButton").onclick = function () {
@@ -51,7 +50,13 @@
       <br>
 
       <div style="text-align:center">
-         <button href="C:\project\SHIP-DADDY\src\html_links\order.html">CATALOG</button>
+         <button id="Button-Catalog">CATALOG</button>
+
+         <script type="text/javascript">
+            document.getElementById("Button-Catalog").onclick = function (){
+               location.href = "./html_links/catalog.html";
+            };
+         </script>
       </div>
 
       <!---div style="text-align: center">
@@ -61,13 +66,17 @@
       <br>
 
       <div style="text-align: center">
-         <button href="">CONTACT US</button>
-      </div-->
+         <button id="Button-Contact">CONTACT US</button>
 
-      <br>
-      <br>
-      <br>
-      <br>
+         <script type="text/javascript">
+            document.getElementById("Button-Contact").onclick = function() {
+               location.href = "./html_links/contact.html";
+            };
+
+         </script>
+      </div>
+
+      
 
       <footer><small>Made by Mowgli</small></footer>
 
