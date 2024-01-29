@@ -5,6 +5,8 @@
 This repository now serves as the web-platform base for my client. The client(courtier) 
 requires a simple E-commerce site for their fashion brand.
 
+The current task is to make MVP and to have it deployed.
+
 
 ## SETUP
 

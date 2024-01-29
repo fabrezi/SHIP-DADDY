@@ -1,0 +1,9 @@
+.h1{
+    text-align: center;
+    position: center;
+ }
+
+ .image_block    {
+            width: 175px;
+            height: 175px;
+            position: static;}
