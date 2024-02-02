@@ -1,4 +1,5 @@
  .image_block    {
             width: 175px;
             height: 175px;
-            position: static;}
+            position: relative;
+            }
