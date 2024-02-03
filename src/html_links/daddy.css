@@ -1,5 +1,7 @@
- .image_block    {
-            width: 175px;
-            height: 175px;
-            position: relative;
+ .center    {
+            display: block;
+            width: 420px;
+            height: 420px;
+            margin-left: auto;
+            margin-right: auto;
             }
