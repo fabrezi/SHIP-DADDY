@@ -13,10 +13,12 @@ This issue was caused due to incorrect address or Path to the data. You need to 
 
 #### TICKETS
 
-1. Bring the Title in the middle of the page. **
+1. ~~Bring the Title in the middle of the page.~~
 
-2. Bring the Image in the middle of the page.
+2. ~~Bring the Image in the middle of the page.~~
 
-3. Make all the buttons in the same row.
+3. ~~Make all the buttons in the same row.~~
 
-4. Place the footer in appropriate position.
+4. Script for the button.
+
+5. 
