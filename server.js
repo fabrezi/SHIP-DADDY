@@ -5,8 +5,21 @@ const app = express() //instance of the server
 const path = require('path') //
 const port = 8080;
 const cors = require('cors')
+const ngrok = require('ngrok')
 
 app.use(cors())
+
+;(async function() {
+  console.log('here');
+  try {
+    const url = await ngrok.connect(9090);
+    console.log(url);
+  } catch (err){
+    console.error("link not working");
+    return;
+  }
+  
+})();
   
 //app.param(path, callback)
 //express structure: app.METHOD(path, Handler)
