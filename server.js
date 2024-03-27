@@ -6,7 +6,7 @@ const path = require('path') //
 const port = 8080;
 const cors = require('cors')
 const ngrok = require('ngrok');
-const { TokenCache } = require('@azure/msal-node');
+//const { TokenCache } = require('@azure/msal-node');
 
 app.use(cors())
 
@@ -22,7 +22,7 @@ app.use(cors())
       onLogEvent: data => {},
     });//default port:80
     console.log(url);
-    console.log(TokenCache);
+   // console.log(TokenCache);
   } catch (err){
     console.error("link not working");
     return;
