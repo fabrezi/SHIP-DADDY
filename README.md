@@ -17,16 +17,12 @@ The current task is to make MVP and to have it deployed.
 - [x] Configure the server with Express 
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {About Us, Catalog, Reservation, Contact US}
-- [ ] Implement the linking references
-- [ ] Connect the localhost to the actual domain from GoDaddy site
-- [ ] Make the site go live. Fix any incumbent errors
-
-#### PHASE 02
-- [] Create a cart functionality
-- [] Configure the db instance
-- [] Connect the api with db 
-- [] Place an order with UI 
-- [] Save the request in db 
+- [ ] Configure the `Calendly` appointment page.
+- [ ] Add Images and caption for `catalog`.
+- [ ] Comment boxes for `contact us` page.
+- [ ] Upload the code to Linux box.
+- [ ] Connect to Godaddy site domain.
+- [ ] Make the site go live.
 
                
 ### REFERENCES
