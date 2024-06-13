@@ -8,27 +8,7 @@ const cors = require('cors')
 const ngrok = require('ngrok');
 //const { TokenCache } = require('@azure/msal-node');
 
-app.use(cors())
-
-;(async function() {
-  console.log('here');
-  try {
-    const url = await ngrok.connect({
-      proto: 'http',
-      addr: 3000,
-      authtoken: `2e9H7epZcZSTWd5dYRc2TqWEIel_2NnpaSCDniZoq43w9YP2m`,
-      region: 'us',
-      onStatusChange: status => {},
-      onLogEvent: data => {},
-    });//default port:80
-    console.log(url);
-   // console.log(TokenCache);
-  } catch (err){
-    console.error("link not working");
-    return;
-  }
-  
-})();
+app.use(cors());
   
 //app.param(path, callback)
 //express structure: app.METHOD(path, Handler)
