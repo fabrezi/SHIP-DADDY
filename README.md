@@ -3,7 +3,9 @@
 This repository now serves as the web-platform base for my client. The client(courtier) 
 requires a simple E-commerce site for their fashion brand.
 
-The current task is to make MVP and to have it deployed.
+The current task is to make MVP and to have it deployed. This is the Version 1.0 of the site.
+
+The future goal is to make `version2.0` will a generalized template and modern tech-stack.
 
 
 ## SETUP
@@ -18,7 +20,7 @@ The current task is to make MVP and to have it deployed.
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {About Us, Catalog, Reservation, Contact US}
 - [ ] Configure the `Calendly` appointment page.
-- [ ] Add Images and caption for `catalog`.
+- [x] Add Images and caption for `catalog`.
 - [ ] Comment boxes for `contact us` page.
 - [ ] Upload the code to Linux box.
 - [ ] Connect to Godaddy site domain.
