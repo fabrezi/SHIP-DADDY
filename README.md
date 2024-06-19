@@ -20,7 +20,7 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {About Us, Catalog, Reservation, Contact US}
 - [ ] Configure the `Calendly` appointment page.
-- [x] Add Images and caption for `catalog`.
+- [ ] Add Images and caption for `catalog`.
 - [ ] Upload the code to Linux box.
 - [ ] Connect to Godaddy site domain.
 - [ ] Make the site go live.
