@@ -8,11 +8,12 @@
 
 
 
-  .vidz  {
+  .video  {
                 display: block;
-                width: 1000px;
+                width: 100%;
                 height: 1000px;
                 margin-left: auto;
                 margin-right: auto;
                 position: absolute;
+                object-fit: cover;
                 }
