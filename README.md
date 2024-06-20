@@ -25,6 +25,7 @@ The future goal is to make `version2.0` will a generalized template and modern t
 ## TODO LIST
 
 - [] Make the video content enlarged. (Current setting of height and width is not implemented)
+- [] Add a new background (similar to Watsapp) with purple context
 
                
 ### REFERENCES
