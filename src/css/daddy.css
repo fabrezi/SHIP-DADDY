@@ -17,3 +17,8 @@
                 position: absolute;
                 object-fit: cover;
                 }
+
+  .block {
+                background-image: url(../images/dvn7.jpg);
+
+               }
