@@ -20,7 +20,7 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [x] Run the UI with the server 
 - [x] Add following options on the UI: {About Us, Catalog, Reservation, Contact US}
 - [x] Add a new background (similar to Watsapp) with green context
-- [ ] Add brightness or glitter feature to the `Appointment button`
+- [x] Add brightness or glitter feature to the `Appointment button`
 - [ ] Configure the `Calendly` appointment page (the button is to be redirected to GET/ appointment page)
 - [ ] ~~Make the video content enlarged. (Current setting of height and width is not implemented).~~
 - [ ] Add Location on the Google Map
