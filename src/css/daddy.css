@@ -26,3 +26,18 @@
    .button {
              background-color:brown;
    }
+
+   .menubar {
+              width: 100%;
+              overflow: auto;
+              background-color: brown;
+   }
+
+   .navbar a {
+              float: left;
+              text-align: center;
+              padding: 12px;
+              color: wheat;
+              text-decoration: none;
+              font-size: 17px;
+   }
