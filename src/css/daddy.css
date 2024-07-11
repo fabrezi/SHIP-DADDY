@@ -42,3 +42,9 @@
               font-size: 17px;
               background-color: brown;
    }
+
+   .footer {
+              background-color: brown;
+              padding: 2%;
+              text-align: center;
+   }
