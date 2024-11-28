@@ -26,9 +26,8 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [x] Configure the `Calendly` appointment page (the button is to be redirected to GET/ appointment page)
 - [ ] Add Location on the Google Map
 - [ ] Make the video enlarged to cover the page
-- [ ] Put the About Us text in white font
+- [x] Put the About Us text in white font
 - [ ] Add a column on the top with the logo and cart logo
-- [ ] Make the site go live :rocket:
 
                
 ### REFERENCES
