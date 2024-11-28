@@ -6,7 +6,11 @@
             margin-right: auto;
             }
 
-
+  .header    {
+                background-color: rgb(165, 132, 42);
+                text-align: center;
+                }
+    
 
   .video  {
                 display: block;
@@ -40,7 +44,7 @@
               color: wheat;
               text-decoration: none;
               font-size: 17px;
-              background-color: brown;
+              background-color: rgb(42, 165, 54);
    }
 
    .footer {
