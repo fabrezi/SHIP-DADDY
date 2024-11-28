@@ -23,7 +23,8 @@
                 }
 
   .block {
-                background-image: url(../images/more-leaves-on-green.png);
+                /*background-image: url(../images/more-leaves-on-green.png);*/
+                background-color: aliceblue;
 
                }
 
