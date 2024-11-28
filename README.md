@@ -1,5 +1,7 @@
 # SHIP DADDY
 
+`MAKE WEB GREAT AGAIN.`
+
 This repository now serves as the web-platform base for my client. The client(courtier) 
 requires a simple E-commerce site for their fashion brand.
 
@@ -39,3 +41,4 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [HTML-only](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
 - [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 - [sample-site-amir-adnan](https://amiradnan.com/en-us)
+- [Imperia](https://imperia.store/)
