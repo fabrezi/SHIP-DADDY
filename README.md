@@ -24,7 +24,6 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [x] Add a new background (similar to Watsapp) with green context
 - [x] Add brightness or glitter feature to the `Appointment button`
 - [x] Configure the `Calendly` appointment page (the button is to be redirected to GET/ appointment page)
-- [ ] ~~Make the video content enlarged. (Current setting of height and width is not implemented).~~
 - [ ] Add Location on the Google Map
 - [ ] Make the video enlarged to cover the page
 - [ ] Put the About Us text in white font
