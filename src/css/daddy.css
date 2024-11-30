@@ -55,10 +55,15 @@
    }
 
    .dickpics {
-    display: block;
+    display: inline-table;
     width: 20px;
     height: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+
+   }
+
+   .imaganitor{
+    display: flex;
 
    }
