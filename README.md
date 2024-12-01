@@ -35,8 +35,5 @@ The future goal is to make `version2.0` will a generalized template and modern t
 - [commit](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
 - [expressjs](https://expressjs.com/)
 - [good_docs](https://johnjago.com/great-docs/)
-- [stripe-npm](https://www.npmjs.com/package/stripe)
 - [HTML-only](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
-- [toaster-screensaver](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
-- [sample-site-amir-adnan](https://amiradnan.com/en-us)
 - [Imperia](https://imperia.store/)
