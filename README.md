@@ -16,6 +16,17 @@ The future goal is to make `version2.0` will a generalized template and modern t
 2. Clone this repo and run `npm install`. this will download the node_modules folder.
 3. Run the server `node server.js`
 
+
+## COMPONENTS
+
+Every site (mostly all of them) have the following key components:
+
+1. CRUD operation
+2. HTTP protocol
+3. OAuth
+4. Server functionality
+
+
 ## TASK
 
 - [x] Configure the server with Express 
