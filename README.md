@@ -25,7 +25,7 @@ Every site (mostly all of them) have the following key components:
 2. HTTP protocol
 3. OAuth
 4. Server functionality
-
+5. DB schema
 
 ## TASK
 
@@ -48,3 +48,4 @@ Every site (mostly all of them) have the following key components:
 - [good_docs](https://johnjago.com/great-docs/)
 - [HTML-only](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
 - [Imperia](https://imperia.store/)
+- [vanilla](https://plainvanillaweb.com/index.html)
